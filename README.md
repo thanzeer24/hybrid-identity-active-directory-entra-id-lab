@@ -4,7 +4,7 @@ Hybrid identity home lab: on-premises Windows Server Active Directory synced to 
 
 This project is a hands-on home lab that connects an on-premises Windows Server Active Directory environment to Microsoft Entra ID (formerly Azure AD). Users created and managed in the local domain are synchronized to the cloud, so the same employee can sign in to Microsoft cloud services with the username and password they already use inside the company network. This setup is called hybrid identity, and it is how many organizations run today.
 
-This lab builds on my earlier project, [Domain-Controller-IT-Support-Project](Link)
+This lab builds on my earlier project, [Domain-Controller-IT-Support-Project](https://github.com/thanzeer24/Domain-Controller-IT-Support-Project)
 , which covers the domain controller, departments, Group Policy, file shares and ticketing.
 
 ## Overview
